@@ -1,5 +1,11 @@
 
 # People in the Team
-Kimberly Allison
-Nicholas Wiley
-Noah Schwartz
+
+
+## Kimberly Allison
+
+
+## Nicholas Wiley
+
+
+## Noah Schwartz
