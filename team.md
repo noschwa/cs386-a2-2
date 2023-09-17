@@ -1,5 +1,5 @@
 
-# People in the Team
+# People
 
 
 ## Kimberly Allison
